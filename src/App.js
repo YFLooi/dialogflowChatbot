@@ -74,7 +74,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React too
         </a>
       </header>
       <div id="chatboxIcon" style={classes.chatboxIcon} onClick={toggleChatbox}></div>

@@ -43,3 +43,6 @@
 #chatboxClose:hover {
   box-shadow: 0 0 2.5px 5px orange;
 }
+#dummy{
+  width: 0;
+}
